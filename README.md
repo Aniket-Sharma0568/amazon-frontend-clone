@@ -41,13 +41,6 @@ The goal of this project is to:
 - Understand DOM manipulation and event handling
 - Improve responsive design skills
 
-## 📸 Screenshots
-
-(Add screenshots of your project here)
-
-## 🌐 Live Demo
-
-(Add your deployed project link here if available)
 
 ## 📌 Future Enhancements
 
